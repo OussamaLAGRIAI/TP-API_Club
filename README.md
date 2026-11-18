@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API club — squelette de la partie B du TP 5
 
 ## Démarrer
@@ -26,3 +27,7 @@ Repartir d'une base vide : `docker compose down -v`, puis les deux premières co
 | `tests.sh` | trois appels donnés, **la suite à écrire au fil de la partie B** |
 
 Le code se modifie à chaud : le dossier est monté dans le conteneur, pas besoin de reconstruire l'image.
+=======
+# TP-API_Club
+Oussama_LAGRIAI &amp; scheril_Valdino
+>>>>>>> 6cb8b35c5b19425f05b2342e94824a85a0001252
